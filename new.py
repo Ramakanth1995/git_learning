@@ -6,7 +6,7 @@ root = Tk()
 root.geometry('800x600')
 root.title("Sign Up ")
 
-label_0 = Label(root, text="Sign Up Form",width=20,font=("bold", 20))
+label_0 = Label(root, text="Sign Up Form with git_hub",width=20,font=("bold", 20))
 label_0.place(x=90,y=53)
 
 
